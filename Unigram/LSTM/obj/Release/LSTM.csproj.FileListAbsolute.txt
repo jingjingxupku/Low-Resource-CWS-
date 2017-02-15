@@ -1,0 +1,109 @@
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\bin\Release\LSTM.exe.config
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\bin\Release\LSTM.exe
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\bin\Release\LSTM.pdb
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\obj\Release\LSTM.exe
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\obj\Release\LSTM.pdb
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\bin\Release\LSTM.exe.config
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\obj\Release\LSTM.exe
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\obj\Release\LSTM.pdb
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\bin\Release\LSTM.exe
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\bin\Release\LSTM.pdb
+F:\LSTM\LSTM\LSTM\LSTM\bin\Release\LSTM.exe.config
+F:\LSTM\LSTM\LSTM\LSTM\obj\Release\LSTM.exe
+F:\LSTM\LSTM\LSTM\LSTM\obj\Release\LSTM.pdb
+F:\LSTM\LSTM\LSTM\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+F:\LSTM\LSTM\LSTM\LSTM\bin\Release\LSTM.exe
+F:\LSTM\LSTM\LSTM\LSTM\bin\Release\LSTM.pdb
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\LSTM\bin\Release\LSTM.exe.config
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\LSTM\obj\Release\LSTM.exe
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\LSTM\obj\Release\LSTM.pdb
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\LSTM\bin\Release\LSTM.exe
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\LSTM\bin\Release\LSTM.pdb
+C:\Users\typhoon\Desktop\tmp\LSTM\LSTM\LSTM\LSTM\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\LSTM\LSTM\bin\Release\LSTM.exe.config
+D:\c#\LSTM\LSTM\obj\Release\LSTM.exe
+D:\c#\LSTM\LSTM\obj\Release\LSTM.pdb
+D:\c#\LSTM\LSTM\bin\Release\LSTM.exe
+D:\c#\LSTM\LSTM\bin\Release\LSTM.pdb
+D:\c#\LSTM\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\lockfree\LSTM+RMPROP\LSTM\bin\Release\LSTM.exe.config
+D:\c#\final\lockfree\LSTM+RMPROP\LSTM\obj\Release\LSTM.exe
+D:\c#\final\lockfree\LSTM+RMPROP\LSTM\obj\Release\LSTM.pdb
+D:\c#\final\lockfree\LSTM+GRNN+RMPROP\LSTM\bin\Release\LSTM.exe.config
+D:\c#\final\lockfree\LSTM+GRNN+RMPROP\LSTM\obj\Release\LSTM.exe
+D:\c#\final\lockfree\LSTM+GRNN+RMPROP\LSTM\obj\Release\LSTM.pdb
+D:\c#\final\lockfree\LSTM+GRNN+RMPROP\LSTM\bin\Release\LSTM.exe
+D:\c#\final\lockfree\LSTM+GRNN+RMPROP\LSTM\bin\Release\LSTM.pdb
+D:\c#\final\lockfree\LSTM+GRNN+RMPROP\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\LSTM+GRNN+RMPROP\LSTM\bin\Release\LSTM.exe.config
+C:\Users\xujingjing\LSTM+GRNN+RMPROP\LSTM\obj\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP\LSTM\obj\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP\LSTM\bin\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP\LSTM\bin\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本\LSTM\bin\Release\LSTM.exe.config
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本\LSTM\obj\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本\LSTM\obj\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本\LSTM\bin\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本\LSTM\bin\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本 - 副本\LSTM\bin\Release\LSTM.exe.config
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本 - 副本\LSTM\obj\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本 - 副本\LSTM\obj\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本 - 副本\LSTM\bin\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本 - 副本\LSTM\bin\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - 副本 - 副本\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP\LSTM\bin\Release\LSTM.exe.config
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP\LSTM\obj\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP\LSTM\obj\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP\LSTM\bin\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP\LSTM\bin\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 副本\LSTM\bin\Release\LSTM.exe.config
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 副本\LSTM\obj\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 副本\LSTM\obj\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 副本\LSTM\bin\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 副本\LSTM\bin\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 副本\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 4tag\LSTM\bin\Release\LSTM.exe.config
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 4tag\LSTM\obj\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 4tag\LSTM\obj\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 4tag\LSTM\bin\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 4tag\LSTM\bin\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+GRNN+RMPROP - RMPROP - 4tag\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe.config
+C:\Users\xujingjing\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe
+C:\Users\xujingjing\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.pdb
+C:\Users\xujingjing\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe.config
+C:\Users\xujingjing\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.exe
+C:\Users\xujingjing\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.pdb
+C:\Users\xujingjing\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe
+C:\Users\xujingjing\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.pdb
+C:\Users\xujingjing\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\lockfree\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe.config
+D:\c#\final\lockfree\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.exe
+D:\c#\final\lockfree\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.pdb
+D:\c#\final\lockfree\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe
+D:\c#\final\lockfree\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.pdb
+D:\c#\final\lockfree\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe.config
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.exe
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.pdb
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.pdb
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag - 副本\LSTM\bin\Release\LSTM.exe.config
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag - 副本\LSTM\obj\Release\LSTM.exe
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 4tag - 副本\LSTM\obj\Release\LSTM.pdb
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 2tag\LSTM\bin\Release\LSTM.exe.config
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 2tag\LSTM\obj\Release\LSTM.exe
+D:\c#\final\minibatch\4tag-2tag lstm vs lstm+GRNN train\LSTM+RMPROP- 2tag\LSTM\obj\Release\LSTM.pdb
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe.config
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.exe
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.pdb
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.exe
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\bin\Release\LSTM.pdb
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\obj\Release\LSTM.csprojResolveAssemblyReference.cache
