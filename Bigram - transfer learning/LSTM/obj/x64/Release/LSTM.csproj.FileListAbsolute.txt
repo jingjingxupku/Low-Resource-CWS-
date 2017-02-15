@@ -1,0 +1,301 @@
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\train\mini-batch\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\train\mini-batch\LSTM+RMPROP- 4tag\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\train\mini-batch\LSTM+RMPROP- 4tag\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\train\mini-batch\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\train\mini-batch\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\train\mini-batch\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\train\mini-batch\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\train\mini-batch\LSTM+RMPROP- 4tag\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 副本 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 副本 - 副本\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 副本 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 副本 - 副本\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 副本 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 副本 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 副本 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 副本 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\train\mini-batch\lr\LSTM+RMPROP- 4tag - 5 5 1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\bin\x64\Release\LSTM.exe.config
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\obj\x64\Release\LSTM.exe
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1\LSTM\obj\x64\Release\LSTM.pdb
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\lr\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\minibatch\train\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\minibatch\train\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\minibatch\train\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\minibatch\train\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\minibatch\train\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\minibatch\train\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\minibatch\train\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\minibatch\train\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\minibatch\train\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\lr\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\lr\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\lr\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\lr\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\lr\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\lr\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\lr\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\lr\train 2 4\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\lr\train 2 4\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\lr\train 2 4\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\lr\train 2 4\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\lr\train 2 4\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\lr\train 2 4\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\lr\train 2 4\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\lr\train 2 4\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\lr\train 2 4\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\save\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\save - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\save - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - complex grnn\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - complex grnn\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - complex grnn\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - complex grnn\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - complex grnn\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - complex grnn\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - complex grnn\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - complex grnn\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\save - 副本 - 副本\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\c#\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\c#\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\c#\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\c#\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\c#\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\c#\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\c#\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\c#\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\c#\trainedweigthbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\LSTM+RMPROP- 4tag - 4 4 4 f1 - bigram - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\bigrm - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\bigrm - 副本\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\bigrm - 副本\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\bigrm - 副本\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\bigrm - 副本\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\bigrm - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\bigrm - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\bigrm - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\realbigram\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\realbigram\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\realbigram\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\realbigram\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\realbigram\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\realbigram\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\realbigram\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\final grnn\sr segmentation\uplstmbigram\realbigram\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku - con\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku - con\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku - con\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku - con\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku - con\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku - con\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pku - con\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\c#\final\save - 副本 - 副本\SR-SEGMENTATION\sr\uplstmbigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\sr\segmentation\uplstm\new\code\GRNN+BLSTM+BIGRAM\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\sr\segmentation\uplstm\new\code\GRNN+BLSTM+BIGRAM\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\sr\segmentation\uplstm\new\code\GRNN+BLSTM+BIGRAM\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\sr\segmentation\uplstm\new\code\GRNN+BLSTM+BIGRAM\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\sr\segmentation\uplstm\new\code\GRNN+BLSTM+BIGRAM\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\sr\segmentation\uplstm\new\code\GRNN+BLSTM+BIGRAM\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\sr\segmentation\uplstm\new\code\GRNN+BLSTM+BIGRAM\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\sr\segmentation\uplstm\new\code\GRNN+BLSTM+BIGRAM\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+D:\newcode\bigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+D:\newcode\bigram\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.exe
+D:\newcode\bigram\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.pdb
+D:\newcode\bigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe
+D:\newcode\bigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.pdb
+D:\newcode\bigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+D:\newcode\bigram\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+D:\newcode\bigram\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MSRA code\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\dell\Desktop\MSRA code\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\dell\Desktop\MSRA code\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\dell\Desktop\MSRA code\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MSRA code\upload\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\dell\Desktop\MSRA code\upload\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\upload\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\upload\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\upload\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\upload\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\dell\Desktop\MSRA code\upload\realbigram -pkuead msr - 副本\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\dell\Desktop\MSRA code\upload\realbigram -pkuead msr - 副本\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MSRA code\upload\bigramPKU\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\dell\Desktop\MSRA code\upload\bigramPKU\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\upload\bigramPKU\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\upload\bigramPKU\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\upload\bigramPKU\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\upload\bigramPKU\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\dell\Desktop\MSRA code\upload\bigramPKU\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\dell\Desktop\MSRA code\upload\bigramPKU\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MSRA code\upload-code\bigram\bigramPKU\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\dell\Desktop\MSRA code\upload-code\bigram\bigramPKU\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\upload-code\bigram\bigramPKU\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\upload-code\bigram\bigramPKU\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\upload-code\bigram\bigramPKU\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\upload-code\bigram\bigramPKU\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\dell\Desktop\MSRA code\upload-code\bigram\bigramPKU\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\dell\Desktop\MSRA code\upload-code\bigram\bigramPKU\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MSRA code\upload-code\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\dell\Desktop\MSRA code\upload-code\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\upload-code\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\upload-code\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\upload-code\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\upload-code\bigramPKU-transfer data\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\dell\Desktop\MSRA code\upload-code\bigramPKU-transfer data\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\dell\Desktop\MSRA code\upload-code\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\xujingjing\code\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\xujingjing\code\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\xujingjing\code\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\xujingjing\code\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\xujingjing\code\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\xujingjing\code\bigramPKU-transfer data\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\xujingjing\code\bigramPKU-transfer data\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\xujingjing\code\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MSRA code\uploadd\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\dell\Desktop\MSRA code\uploadd\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\uploadd\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\uploadd\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\uploadd\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\uploadd\bigramPKU-transfer data\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\dell\Desktop\MSRA code\uploadd\bigramPKU-transfer data\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\dell\Desktop\MSRA code\uploadd\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MSRA code\uploadd\new\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\dell\Desktop\MSRA code\uploadd\new\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\uploadd\new\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\uploadd\new\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\uploadd\new\bigramPKU-transfer data\LSTM\bin\x64\Release\LSTM.pdb
+C:\Users\dell\Desktop\MSRA code\uploadd\new\bigramPKU-transfer data\LSTM\bin\x64\Release\MathNet.Numerics.dll
+C:\Users\dell\Desktop\MSRA code\uploadd\new\bigramPKU-transfer data\LSTM\bin\x64\Release\MathNet.Numerics.xml
+C:\Users\dell\Desktop\MSRA code\uploadd\new\bigramPKU-transfer data\LSTM\obj\x64\Release\LSTM.csprojResolveAssemblyReference.cache
+C:\Users\dell\Desktop\MSRA code\uploadd\new\Low-resource-CWS\Bigram - transfer learning\LSTM\bin\x64\Release\LSTM.exe.config
+C:\Users\dell\Desktop\MSRA code\uploadd\new\Low-resource-CWS\Bigram - transfer learning\LSTM\obj\x64\Release\LSTM.exe
+C:\Users\dell\Desktop\MSRA code\uploadd\new\Low-resource-CWS\Bigram - transfer learning\LSTM\obj\x64\Release\LSTM.pdb
